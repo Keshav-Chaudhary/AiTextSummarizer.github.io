@@ -1,4 +1,4 @@
-AI text summarizer app
+#AI text summarizer app
 
 Welcome to KC's Text Summarizer App" – Unleash the Power of AI for Instant Summaries!,Unlock the magic of cutting-edge Artificial Intelligence APIs 
 with our one-of-a-kind app that delivers crisp and engaging summaries from lengthy documents. Whether you're dealing with extensive assignments of your college, intricate research papers,
